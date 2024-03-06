@@ -31,7 +31,6 @@
   <a href="https://xb3n6e.hu/">
     <img align="center" alt="WebSite" width="28px" src="https://www.svgrepo.com/show/197996/internet.svg" />
   </a>
-  <p>ㅤ</p>
   <a href="https://xb3n6e.hu/discord">
     <img align="center" alt="Discord" width="28px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
   </a>
