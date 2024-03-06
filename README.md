@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xb3n6e&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://xb3n6e.hu/)
+
 <!--
 **xb3n6e/xb3n6e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
