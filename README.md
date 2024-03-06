@@ -1,6 +1,4 @@
 <center>
-  <img width="200" style="border-radius: 50%;" src="https://images-ext-1.discordapp.net/external/zvOA1A7UhSrZjoAXAD-CAFQ8qOD0LKNQF9XMCLAmEtA/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1102879568852951121/7b699deaad2d1999870a42ea36f25022.webp?format=webp&width=230&height=230" alt="xb3n6e's profile picture from Discord" >
-  
   ### Hi there 👋
   My name is xb3n6e!
 
