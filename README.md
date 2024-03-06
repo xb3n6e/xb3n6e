@@ -16,12 +16,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/xb3n6e" target="_blank" rel="nofollow">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xb3n6e&layout=compact&theme=blueberry" alt="xb3n6e's datas">
-  </a>
-</p>
-
-<p align="center">
   <a href="https://discord.com/users/330861775203336194" target="_blank" rel="nofollow">
     <img align="center" src="https://lanyard-profile-readme.vercel.app/api/1102879568852951121?theme=dark&hideDiscrim=true&borderRadius=30px&hideActivity=whenNotUsed" alt="Discord Presence">
   </a>
@@ -31,7 +25,6 @@
   <a href="https://xb3n6e.hu/">
     <img align="center" alt="WebSite" width="28px" src="https://www.svgrepo.com/show/197996/internet.svg" />
   </a>
-  <p>ㅤ</p>
   <a href="https://xb3n6e.hu/discord">
     <img align="center" alt="Discord" width="28px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
   </a>
