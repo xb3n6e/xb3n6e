@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">Hi there 👋</h1>
 <p align="center"><b>My name is xb3n6e 👨‍💻</b></p>
-<p align="center">💻 I have knowledge in <b>JavaScript</b> and <b>HTML</b> <i>(and sure I have knowledge in Php and CSS too)</i><br>🤵 I'm <b>17</b> years old</p>
+<p align="center">💻 I have knowledge in <b>JavaScript</b> and <b>HTML</b> <i>(and sure I have knowledge in Php and CSS too)</i><br>🤵 I'm <b>18</b> years old</p>
 
 </br>
 
