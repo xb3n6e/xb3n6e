@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/1102879568852951121" target="_blank" rel="nofollow">
-    <img align="center" src="http://lanyard.xb3n6e.hu/api/1102879568852951121">
+    <img align="center" src="https://lanyard.xb3n6e.hu/api/1102879568852951121">
   </a>
 </p>
 
