@@ -16,13 +16,13 @@
 
 <br>
 
-<h2 align="center">🌐 Connect with me</h2>
+<!-- <h2 align="center">🌐 Connect with me</h2>
 
 <p align="center">   <a href="https://discord.com/users/1102879568852951121">     <img src="https://lanyard.xb3n6e.hu/api/1102879568852951121" />   </a> </p>
 
 <p align="center">   <a href="https://xb3n6e.hu/">     <img src="http://lanyard.xb3n6e.hu/github/website.svg" width="390" />   </a>   &nbsp;   <a href="https://discord.com/users/1102879568852951121">     <img src="http://lanyard.xb3n6e.hu/github/discord.svg" width="390" />   </a> </p>
 
-<br>
+<br> -->
 
 <h2 align="center">⚡ Tech Stack</h2>
 
