@@ -4,10 +4,9 @@
 
 <p align="center">
   <img
-    src="https://cdn.xb3n6e.hu/xb3n6ehu/logo.jpg"
+    src="https://cdn.xb3n6e.hu/xb3n6ehu/3.png"
     width="200"
     height="200"
-    style="border-radius: 150%; object-fit: cover; border: 10px solid #8B5CF6;"
   />
 </p>
 
