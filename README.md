@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=44&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&height=90&lines=Hi+there+%F0%9F%91%8B" />
 </p>
-<img align="center" width="100%" src="http://lanyard.xb3n6e.hu/github/hr.svg" />
+<img align="center" width="100%" src="https://cdn.xb3n6e.hu/xb3n6ehu/logo.jpg" />
 <p align="center"><b>My name is xb3n6e 👨‍💻</b></p>
 <p align="center">
   💻 Skilled in <b>JavaScript</b> and <b>HTML</b>, with working knowledge of <i>PHP</i> and <i>CSS</i><br>
