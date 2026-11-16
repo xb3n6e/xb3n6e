@@ -5,9 +5,9 @@
 <p align="center">
   <img
     src="https://cdn.xb3n6e.hu/xb3n6ehu/logo.jpg"
-    width="160"
-    height="160"
-    style="border-radius: 100%; object-fit: cover; border: 3px solid #8B5CF6;"
+    width="200"
+    height="200"
+    style="border-radius: 150%; object-fit: cover; border: 10px solid #8B5CF6;"
   />
 </p>
 
